@@ -5,7 +5,7 @@ An Omarchy theme built from the [Cursor Dark iTerm2 color scheme](https://raw.gi
 ## Install
 
 ```bash
-omarchy theme install https://github.com/iam4x/omarchy-cursor-dark.git
+omarchy theme install https://github.com/iam4x/omarchy-cursor-dark-theme.git
 omarchy theme set cursor-dark
 ```
 
