@@ -1,0 +1,43 @@
+mode = "dark"
+
+# Cursor Dark, mapped from the iTerm2 color scheme:
+# https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Cursor%20Dark.itermcolors
+
+accent = "#81a1c1"
+selection = "#2c2c2c"
+selection_background = "#2c2c2c"
+selection_foreground = "#e4e4e4"
+muted = "#4a4a4a"
+
+background = "#141414"
+dark_background = "#0f0f0f"
+darker_background = "#0a0a0a"
+lighter_background = "#242424"
+
+foreground = "#d4d4d4"
+dark_foreground = "#4a4a4a"
+light_foreground = "#e4e4e4"
+bright_foreground = "#e4e4e4"
+
+# Keep Hyprland borders understated while carrying the scheme's blue-to-purple
+# character through the active gradient.
+hyprland_active_border = "rgba(81a1c1ee) rgba(b48eadff) 45deg"
+hyprland_inactive_border = "rgba(4a4a4aaa)"
+active_border_color = "#81a1c1"
+active_tab_background = "#2c2c2c"
+
+red = "#fc6b83"
+yellow = "#d2943e"
+orange = "#f1b467"
+green = "#3fa266"
+cyan = "#88c0d0"
+blue = "#81a1c1"
+magenta = "#b48ead"
+brown = "#694a1f"
+
+bright_red = "#fc6b83"
+bright_yellow = "#f1b467"
+bright_green = "#70b489"
+bright_cyan = "#88c0d0"
+bright_blue = "#87a6c4"
+bright_magenta = "#b48ead"
