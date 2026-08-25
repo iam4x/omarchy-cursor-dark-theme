@@ -13,6 +13,12 @@ hl.config({
     },
   },
 
+  cursor = {
+    -- Keep the pointer in place when switching workspaces instead of
+    -- restoring the last focused window's pointer position.
+    warp_on_change_workspace = 0,
+  },
+
   group = {
     col = {
       border_active = active_border_color,
