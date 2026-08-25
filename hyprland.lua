@@ -1,7 +1,16 @@
 -- Cursor Dark Hyprland overrides.
 -- Keep the default space between tiled windows, but make the outer spacing
 -- slightly tighter (8px instead of Omarchy's 10px default).
-local active_border_color = { colors = { "rgba(81a1c1ee)", "rgba(b48eadff)" }, angle = 45 }
+-- One Dark Pro active tile gradient: blue, cyan, purple, yellow.
+local active_border_color = {
+  colors = {
+    "rgba(61afefff)",
+    "rgba(56b6c2ff)",
+    "rgba(c678ddff)",
+    "rgba(e5c07bff)",
+  },
+  angle = 90,
+}
 local inactive_border_color = "rgba(4a4a4aaa)"
 
 hl.config({
