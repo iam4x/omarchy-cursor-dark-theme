@@ -22,6 +22,11 @@ hl.config({
     },
   },
 
+  decoration = {
+    -- Add a subtle curve to tiled window corners.
+    rounding = 6,
+  },
+
   cursor = {
     -- Keep the pointer in place when switching workspaces instead of
     -- restoring the last focused window's pointer position.
